@@ -1,0 +1,13 @@
+build-dir=../build
+
+(touch ${build-dir}; rsync -avC * ${build-dir})
+
+
+
+
+
+
+
+
+
+
